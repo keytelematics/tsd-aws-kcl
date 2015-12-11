@@ -1,1 +1,3 @@
-# tsd-aws-kcl 
+# AWS Kinesis Consumer Library Typescript Definition 
+
+
